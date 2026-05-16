@@ -37,7 +37,7 @@ The aim of this project is to:
 
 ## Files
 
-* `codestar_task_8_3_data_analysis_visualization.ipynb` — Main notebook containing the complete analysis process.
+* `churn-data-analysis.ipynb` — Main notebook containing the complete analysis process.
 
 ## Results
 
